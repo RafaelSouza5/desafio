@@ -170,6 +170,7 @@ div.border-a {
     height: 400px;
 }
 div > iframe {
+    width: 70%;
     position: relative;
     top: 40px;
     height: 315px;
