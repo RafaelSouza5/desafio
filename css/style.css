@@ -169,7 +169,7 @@ div.border-a {
     background-color: #1A5D39;
     height: 400px;
 }
-div > iframe {
+iframe {
     width: 70%;
     position: relative;
     top: 40px;
